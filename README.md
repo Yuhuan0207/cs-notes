@@ -8,3 +8,6 @@
 
 ## Todo Reading List
 
+### Contributing to Open Source
+
+### System Design
